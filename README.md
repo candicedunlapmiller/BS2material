@@ -10,3 +10,8 @@ Researching ways to migrate from bootstrap3 to material design (within wordpress
 
 
 
+## Angular-specific: 
+[Angular Material](https://material.angular.io/)
+
+## Design
+[Google Material](https://material.io/)
